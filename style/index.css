@@ -1,0 +1,15 @@
+.photo img{
+    width: 400px; 
+    height: 400px;
+}
+ .list{
+    font-size: 40px;
+ }
+
+.list ul{
+    color: blueviolet;
+}
+.list button{
+background-color: greenyellow;
+font-size: 40px;
+}
